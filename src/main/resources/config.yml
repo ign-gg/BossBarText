@@ -1,6 +1,7 @@
-# boss bar text
-# use %n for a new line
-text: "§eYou can edit this text in config.yml"
+# boss bar text per world
+text:
+  world: "§eYou can edit this text in config.yml"
+  nether: "§eYou can edit this text in config.yml"
 # boss bar length
 length: 100
 # boss bar color (1.18+)
